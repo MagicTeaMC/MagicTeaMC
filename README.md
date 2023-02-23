@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://maoyue.me](https://maoyue.me)
 
-- 📫 How to reach me **clps103263@gmail.com**
+- 📫 How to reach me **maoyue@maoyue.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
