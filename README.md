@@ -44,7 +44,6 @@
 <a href="https://github.com/MagicTeaMC/typing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=typing&show_owner=true&theme=synthwave" />
 </a>
-</a>
 <a href="https://github.com/MagicTeaMC/milkteamc.xyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=milkteamc.xyz&show_owner=true&theme=synthwave" />
 </a>
