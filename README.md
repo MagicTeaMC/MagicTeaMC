@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm @MagicTeaMC(Maoyue)</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magicteamc&label=Profile%20views&color=0e75b6&style=flat" alt="magicteamc" /> </p>
-
 ![Maoyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicTeaMC&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicTeaMC&layout=compact)
 <p align="left"><img src="./profile-3d-contrib/profile-season-animate.svg" height="400" width="1000"></p>
@@ -46,3 +44,5 @@
 <a href="https://github.com/MagicTeaMC/milkteamc.xyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=milkteamc.xyz&show_owner=true&theme=synthwave" />
 </a>
+
+![Visitors](https://count.getloli.com/get/@MagicTeaMC?theme=rule34)
