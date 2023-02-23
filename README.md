@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicteamc" alt="magicteamc" /></a> </p>
 
+![Visitors](https://count.getloli.com/get/@MagicTeaMC)
+
+
 - 🌱 I’m currently learning **Java, Python, node.js**
 
 - 📝 I regularly write articles on [https://maoyue.me](https://maoyue.me)
@@ -48,5 +51,3 @@
 <a href="https://github.com/MagicTeaMC/moomoo-bot-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=moomoo-bot-dev&show_owner=true&theme=synthwave" />
 </a>
-
-![Visitors](https://count.getloli.com/get/@MagicTeaMC)
