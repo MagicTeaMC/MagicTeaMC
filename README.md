@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm @MagicTeaMC(Maoyue)</h1>
 <h3 align="center">A student from Taiwan</h3>
 
+![Maoyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicTeaMC&show_icons=true&theme=radical)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magicteamc&label=Profile%20views&color=0e75b6&style=flat" alt="magicteamc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicteamc" alt="magicteamc" /></a> </p>
