@@ -44,8 +44,8 @@
 <a href="https://github.com/MagicTeaMC/typing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=typing&show_owner=true&theme=synthwave" />
 </a>
-<a href="https://github.com/MagicTeaMC/milkteamc.xyz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=milkteamc.xyz&show_owner=true&theme=synthwave" />
+<a href="https://github.com/MagicTeaMC/ChatGPT-playground-chinese">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=ChatGPT-playground-chinese&show_owner=true&theme=synthwave" />
 </a>
 <a href="https://github.com/MagicTeaMC/moomoo-bot-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=moomoo-bot-dev&show_owner=true&theme=synthwave" />
