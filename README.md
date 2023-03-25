@@ -9,6 +9,7 @@
 
 ![Visitors](https://count.getloli.com/get/@MagicTeaMC)
 
+- 🎢 I'm the owner of [milkteamc](https://github.com/milkteamc). It's a cool Minecraft server.
 
 - 🌱 I’m currently learning **Java, Python, node.js**
 
