@@ -39,8 +39,8 @@
 <a href="https://github.com/MagicTeaMC/basic-djs-v12-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=basic-djs-v12-bot&show_owner=true&theme=synthwave" />
 </a>
-<a href="https://github.com/TWST-Studio/TWST-core">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TWST-Studio&repo=TWST-core&show_owner=true&theme=synthwave" />
+<a href="https://github.com/MagicTeaMC/ServerStatusDiscordBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=ServerStatusDiscordBot&show_owner=true&theme=synthwave" />
 </a>
 <a href="https://github.com/MagicTeaMC/typing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=typing&show_owner=true&theme=synthwave" />
