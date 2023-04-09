@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm @MagicTeaMC(Maoyue)</h1>
 
 ![Maoyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicTeaMC&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicTeaMC&layout=compact)
+[![Discord Presence](https://lanyard.cnrad.dev/api/877103068498522143)](https://discord.com/users/877103068498522143)  
 
-<p align="left"><img src="./profile-3d-contrib/profile-season-animate.svg" height="600" width="800"></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicteamc&column=3&margin-w=15&margin-h=10&theme=discord&no-frame=true" alt="magicteamc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicteamc&column=7&margin-w=15&margin-h=10&theme=discord&no-frame=true" alt="magicteamc" /></a> </p>
 
 ![Visitors](https://count.getloli.com/get/@MagicTeaMC)
 
