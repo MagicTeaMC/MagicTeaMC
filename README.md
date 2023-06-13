@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning **Java, Python, node.js**
 
-- 📝 I regularly write articles on [https://maoyue.me](https://maoyue.me)
-
-- 📫 How to reach me **maoyue@maoyue.me**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maoyue_ouo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maoyue_ouo" height="30" width="40" /></a>
