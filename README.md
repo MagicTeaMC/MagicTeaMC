@@ -30,8 +30,8 @@
 <a href="https://github.com/MagicTeaMC/Orange-Dog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=Orange-Dog&show_owner=true&theme=synthwave" />
 </a>
-<a href="https://github.com/MagicTeaMC/basic-djs-v12-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=basic-djs-v12-bot&show_owner=true&theme=synthwave" />
+<a href="https://github.com/MagicTeaMC/cbmc.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=cbmc.js&show_owner=true&theme=synthwave" />
 </a>
 <a href="https://github.com/MagicTeaMC/ServerStatusDiscordBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MagicTeaMC&repo=ServerStatusDiscordBot&show_owner=true&theme=synthwave" />
