@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @MagicTeaMC(Maoyue)</h1>
+<h1 align="center">Hi 👋, I'm Maoyue 貓月</h1>
 
 ![Maoyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicTeaMC&show_icons=true&theme=radical)
 [![Discord Presence](https://lanyard.cnrad.dev/api/877103068498522143)](https://discord.com/users/877103068498522143)  
