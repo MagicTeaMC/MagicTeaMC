@@ -2,6 +2,8 @@
 
 About me: <https://maoyue.tw>
 
+GPG: `B9AE 362B F898 1D7C 617A 7CD4 01DA 5E6E 1222 A680`
+
 </p>
 
 * * *
